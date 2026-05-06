@@ -7,3 +7,4 @@ col-lg-* applies to large monitors
 col-12 12 grid leke chlega
 col-md-6 medium screen m 6 col leke chlega matlb ek col m 2 part dikhayi dekhnge 
  moblile first bootstrap
+ navbar light bg-light
