@@ -1,0 +1,9 @@
+image src #  class img-fluid alt responsive image
+ensure inmge scales with  the viewpoet width
+buttons primary secondary and success and danger and the sizes using classes 
+btn teext in the center and round coners and btn primary is used to assign colors
+col-md-6 6 out of 12 column on medium screens and up
+col-lg-* applies to large monitors
+col-12 12 grid leke chlega
+col-md-6 medium screen m 6 col leke chlega matlb ek col m 2 part dikhayi dekhnge 
+ moblile first bootstrap
